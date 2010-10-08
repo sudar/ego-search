@@ -50,7 +50,7 @@ img.yml-profile-pic {
 
 .y10updatetext {
     color:#666666;
-    font-size:12px;
+    font-size:14px;
     font-weight:normal;
     line-height:16px;
     margin:-2px 0 8px;
